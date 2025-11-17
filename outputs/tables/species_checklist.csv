@@ -1,0 +1,24 @@
+Family,EnglishName,ScientificName,Date,Elevation_m,Latitude,Longitude,Species_ID,Photo_filename,Total_observations
+Hesperiidae,Mallow Skipper,Carcharodus alceae,2020-06-22,2115.82,36.266667,72.256389,1,species_01.jpg,3
+Hesperiidae,Chitral Inky Skipper,Erynnis pathan,2020-07-19,2197.23,36.264167,72.256111,2,species_02.jpg,2
+Lycaenidae,Green Hairstreak,Callophrys rubi,2021-04-23,2517.42,36.2575,72.25,3,species_03.jpg,1
+Lycaenidae,Walnut Blue,Chaetoprocta odata,2020-07-04,2110.66,36.266389,72.256111,4,species_04.jpg,1
+Lycaenidae,Hedge Blue,Holarctic azures,2020-06-12,2110.03,36.266111,72.256111,5,species_05.jpg,1
+Lycaenidae,Small Copper,Lycaena phlaeas,2020-07-30,2115.09,36.266667,72.256389,6,species_06.jpg,3
+Lycaenidae,Loew's Blue,Plebejidea loewii,2021-06-12,2571.04,36.256667,72.248611,7,species_07.jpg,1
+Lycaenidae,Common Blue,Polyommatus icarus,2020-06-22,2116.68,36.266667,72.256389,8,species_08.jpg,3
+Lycaenidae,White-line Hairstreak,Satyrium deria,2020-06-12,2109.92,36.266111,72.256111,9,species_09.jpg,2
+Nymphalidae,Indian Tortoiseshell,Aglais cashmirensis,2021-04-03,2113.75,36.266389,72.256389,10,species_10.jpg,1
+Nymphalidae,Enervated Rockbrown,Chazara enervata,2021-06-12,2151.18,36.264722,72.255833,11,species_11.jpg,1
+Nymphalidae,White-ringed Meadowbrown,Hyponephele davendra,2021-06-12,2345.59,36.261111,72.254167,12,species_12.jpg,1
+Nymphalidae,Kanetisa Digna,Kanetisa digna,2020-06-12,2217.48,36.263889,72.256389,13,species_13.jpg,1
+Nymphalidae,Dark Wall,Lasiommata menava,2020-06-04,2230.75,36.263889,72.256944,14,species_14.jpg,3
+Nymphalidae,Chitral White Admiral,Limenitis lepechini,2021-06-20,2113.36,36.2625,72.246389,15,species_15.jpg,1
+Nymphalidae,Robert Fritillary,Melitaea robertsi,2021-04-26,2362.29,36.260556,72.253611,16,species_16.jpg,1
+Nymphalidae,Chitrali Satyr,Satyrus pimpla,2020-07-20,2295.53,36.262222,72.255556,17,species_17.jpg,1
+Nymphalidae,Painted Lady,Vanessa cardui,2020-06-12,2134.07,36.265278,72.2575,18,species_18.jpg,1
+Papilionidae,Old World Swallowtail,Papilio machaon,2021-04-29,2365.09,36.260278,72.253333,19,species_19.jpg,1
+Pieridae,Pioneer White,Belenois aurota,2020-09-09,2106.54,36.269167,72.258056,20,species_20.jpg,1
+Pieridae,Eastern Pale Clouded Yellow,Colias erate,2020-07-19,2265.58,36.263056,72.256944,21,species_21.jpg,3
+Pieridae,Large White,Pieris brassicae,2020-06-12,2109.88,36.266111,72.256111,22,species_22.jpg,2
+Pieridae,Small White,Pieris rapae,2020-07-20,2263.47,36.263056,72.256667,23,species_23.jpg,2

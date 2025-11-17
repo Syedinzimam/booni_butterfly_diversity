@@ -1,0 +1,38 @@
+ObservationID,Date,EnglishName,ScientificName,Family,Latitude,Longitude,Elevation_m
+1,12-06-2020,Hedge Blue,Holarctic azures,Lycaenidae,36.266111,72.256111,2110.03
+2,12-06-2020,White-line Hairstreak,Satyrium deria,Lycaenidae,36.266111,72.256111,2109.92
+3,12-06-2020,Painted Lady,Vanessa cardui,Nymphalidae,36.265278,72.257500,2134.07
+4,12-06-2020,Large White,Pieris brassicae,Pieridae,36.266111,72.256111,2109.88
+5,12-06-2020,Kanetisa Digna,Kanetisa digna,Nymphalidae,36.263889,72.256389,2217.48
+6,04-06-2020,Dark Wall,Lasiommata menava,Nymphalidae,36.263889,72.256944,2230.75
+7,22-06-2020,Mallow Skipper,Carcharodus alceae,Hesperiidae,36.266667,72.256389,2115.82
+8,22-06-2020,Common Blue,Polyommatus icarus,Lycaenidae,36.266667,72.256389,2116.68
+9,04-07-2020,Walnut Blue,Chaetoprocta odata,Lycaenidae,36.266389,72.256111,2110.66
+10,04-07-2020,White-line Hairstreak,Satyrium deria,Lycaenidae,36.266667,72.256389,2117.33
+11,04-07-2020,Common Blue,Polyommatus icarus,Lycaenidae,36.266389,72.256944,2119.15
+12,05-07-2020,Large White,Pieris brassicae,Pieridae,36.266667,72.256389,2117.50
+13,05-07-2020,Mallow Skipper,Carcharodus alceae,Hesperiidae,36.266389,72.256944,2118.78
+14,19-07-2020,Chitral Inky Skipper,Erynnis pathan,Hesperiidae,36.264167,72.256111,2197.23
+15,19-07-2020,Eastern Pale Clouded Yellow,Colias erate,Pieridae,36.263056,72.256944,2265.58
+16,20-07-2020,Chitrali Satyr,Satyrus pimpla,Nymphalidae,36.262222,72.255556,2295.53
+17,20-07-2020,Small White,Pieris rapae,Pieridae,36.263056,72.256667,2263.47
+18,30-07-2020,Small Copper,Lycaena phlaeas,Lycaenidae,36.266667,72.256389,2115.09
+19,20-08-2020,Dark Wall,Lasiommata menava,Nymphalidae,36.266667,72.256111,2113.67
+20,09-09-2020,Pioneer White,Belenois aurota,Pieridae,36.269167,72.258056,2106.54
+21,03-04-2021,Indian Tortoiseshell,Aglais cashmirensis,Nymphalidae,36.266389,72.256389,2113.75
+22,17-04-2021,Small Copper,Lycaena phlaeas,Lycaenidae,36.266667,72.256389,2115.18
+23,17-04-2021,Mallow Skipper,Carcharodus alceae,Hesperiidae,36.266667,72.256389,2114.85
+24,23-04-2021,Green Hairstreak,Callophrys rubi,Lycaenidae,36.257500,72.250000,2517.42
+25,26-04-2021,Robert Fritillary,Melitaea robertsi,Nymphalidae,36.260556,72.253611,2362.29
+26,26-04-2021,Chitral Inky Skipper,Erynnis pathan,Hesperiidae,36.260833,72.254167,2359.60
+27,26-04-2021,Eastern Pale Clouded Yellow,Colias erate,Pieridae,36.260556,72.253611,2363.51
+28,29-04-2021,Old World Swallowtail,Papilio machaon,Papilionidae,36.260278,72.253333,2365.09
+29,04-05-2021,Dark Wall,Lasiommata menava,Nymphalidae,36.260278,72.253333,2366.64
+30,12-06-2021,Enervated Rockbrown,Chazara enervata,Nymphalidae,36.264722,72.255833,2151.18
+31,12-06-2021,White-ringed Meadowbrown,Hyponephele davendra,Nymphalidae,36.261111,72.254167,2345.59
+32,12-06-2021,Loew's Blue,Plebejidea loewii,Lycaenidae,36.256667,72.248611,2571.04
+33,20-06-2021,Chitral White Admiral,Limenitis lepechini,Nymphalidae,36.262500,72.246389,2113.36
+34,02-08-2021,Small White,Pieris rapae,Pieridae,36.265833,72.258056,2124.59
+35,26-08-2021,Common Blue,Polyommatus icarus,Lycaenidae,36.269167,72.257778,2105.38
+36,26-08-2021,Eastern Pale Clouded Yellow,Colias erate,Pieridae,36.269167,72.257778,2105.25
+37,09-10-2021,Small Copper,Lycaena phlaeas,Lycaenidae,36.266389,72.255833,2108.49
