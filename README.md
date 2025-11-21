@@ -41,7 +41,8 @@ booni-butterfly-diversity/
 │   └── maps/                   # Interactive HTML maps
 ├── photos/                     # Butterfly photographs (23 species)
 ├── reports/
-│   └── 05_final_report.Rmd     # Complete R Markdown report
+│   ├── 05_final_report.Rmd     # R Markdown source
+│   └── 05_final_report.html    # Complete report (view in browser)
 └── README.md
 ```
 
@@ -67,7 +68,7 @@ booni-butterfly-diversity/
 - Regional field guides (Bingham 1905-1907; Wynter-Blyth 1957)
 
 ### Data Analysis
-- **R (v4.x)** for all statistical analyses
+- **R (v4.5.1)** for all statistical analyses
 - **Spatial analysis:** `sf`, `leaflet` packages
 - **Visualizations:** `ggplot2`, `viridis`
 - **Report generation:** R Markdown
