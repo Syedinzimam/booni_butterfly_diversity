@@ -5,6 +5,10 @@
 [![iNaturalist](https://img.shields.io/badge/iNaturalist-Observations-brightgreen)](https://www.inaturalist.org/people/syed_inzimam)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+![Old World Swallowtail](photos/species_19.jpg)
+*Old World Swallowtail (Papilio machaon) - Booni, Upper Chitral*
+
+
 ##  Project Overview
 
 This repository contains the complete analysis and documentation of butterfly diversity in Booni, Upper Chitral, Pakistan. Through systematic field-based photography conducted between April 2020 and October 2021, **23 butterfly species** across **5 families** were documented, representing the first comprehensive baseline inventory for this region.
@@ -63,7 +67,7 @@ booni-butterfly-diversity/
 - Regional field guides (Bingham 1905-1907; Wynter-Blyth 1957)
 
 ### Data Analysis
-- **R (4.5.1)** for all statistical analyses
+- **R (v4.x)** for all statistical analyses
 - **Spatial analysis:** `sf`, `leaflet` packages
 - **Visualizations:** `ggplot2`, `viridis`
 - **Report generation:** R Markdown
@@ -89,7 +93,7 @@ booni-butterfly-diversity/
 | Loew's Blue | *Plebejidea loewii* | Highest elevation record (2,571m) |
 | Old World Swallowtail | *Papilio machaon* | Only swallowtail species |
 
-##  Technical Details
+## 🛠 Technical Details
 
 **Software & Tools:**
 - R 4.5.1
@@ -176,8 +180,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Ackram Awan** - Expert identification and verification
 - **iNaturalist Community** - Additional identification support
-- **Residents of Booni** - Field support and cooperation
-- **Virtual University of Pakistan & Pakistan Forest Institute** - Academic foundation
 
 ---
 
