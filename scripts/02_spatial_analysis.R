@@ -2,10 +2,10 @@
 # BOONI BUTTERFLY PROJECT - SPATIAL ANALYSIS
 # Interactive Map and Elevation Analysis
 # Author: Syed Inzimam Ali Shah
-# Date: June 2025
+# Date: Apr 2020 - Oct 2021
 # =============================================================================
 
-setwd("C:/booni_butterfly_project")
+setwd("C:/booni_butterfly_diversity")
 
 # Load packages
 library(tidyverse)
@@ -205,10 +205,3 @@ p_seasonal_elevation <- ggplot(seasonal_elevation, aes(x = Month, y = Mean_eleva
 
 print(p_seasonal_elevation)
 ggsave("outputs/figures/07_seasonal_elevation.png", p_seasonal_elevation, width = 10, height = 6, dpi = 300)
-
-cat("\n=== ANALYSIS COMPLETE ===\n")
-cat("Outputs saved:\n")
-cat("  - Interactive map: outputs/maps/booni_butterfly_map.html\n")
-cat("  - 3 new figures in outputs/figures/\n")
-cat("  - 2 new tables in outputs/tables/\n")
-
