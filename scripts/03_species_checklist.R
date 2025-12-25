@@ -1,10 +1,10 @@
 # =============================================================================
 # BOONI BUTTERFLY PROJECT - SPECIES PHOTO GALLERY
 # Author: Syed Inzimam Ali Shah
-# Date: June 2025
+# Date: Apr 2020 - Oct 2021
 # =============================================================================
 
-setwd("C:/booni_butterfly_project")
+setwd("C:/booni_butterfly_diversity")
 
 # Load packages
 library(tidyverse)
@@ -176,11 +176,3 @@ photo_guide <- species_checklist %>%
 print(kable(photo_guide, format = "simple"))
 
 write_csv(photo_guide, "outputs/tables/photo_naming_guide.csv")
-
-cat("\n=== CHECKLIST COMPLETE ===\n")
-cat("Files created:\n")
-cat("  - outputs/tables/species_checklist.csv\n")
-cat("  - outputs/tables/annotated_species_list.csv\n")
-cat("  - outputs/tables/species_phenology.csv\n")
-cat("  - outputs/tables/photo_naming_guide.csv\n")
-
