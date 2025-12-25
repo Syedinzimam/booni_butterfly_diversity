@@ -2,12 +2,12 @@
 # BOONI BUTTERFLY PROJECT
 # R Setup and Initial Data Exploration
 # Author: Syed Inzimam Ali Shah
-# Date: June 2025
+# Date: Apr 2020 - Oct 2021
 # Location: Booni, Upper Chitral, Pakistan
 # =============================================================================
 
 # Set working directory to C drive
-setwd("C:/booni_butterfly_project")
+setwd("C:/booni_butterfly_diversity")
 
 # 1. INSTALL AND LOAD PACKAGES -----------------------------------------------
 
@@ -185,16 +185,3 @@ ggsave("outputs/figures/04_species_accumulation.png", p4, width = 8, height = 6,
 # 6. SAVE CLEANED DATA --------------------------------------------------------
 
 write_csv(butterflies_clean, "data/cleaned/booni_butterflies_cleaned.csv")
-
-cat("\n=== Analysis Complete! ===\n")
-cat("✓ Cleaned data saved to: data/cleaned/\n")
-cat("✓ Summary tables saved to: outputs/tables/ (2 files)\n")
-cat("✓ Figures saved to: outputs/figures/ (4 files)\n")
-cat("\nCheck your folders:\n")
-cat("  - outputs/figures/01_family_diversity.png\n")
-cat("  - outputs/figures/02_temporal_distribution.png\n")
-cat("  - outputs/figures/03_elevation_distribution.png\n")
-cat("  - outputs/figures/04_species_accumulation.png\n")
-cat("  - outputs/tables/species_summary.csv\n")
-cat("  - outputs/tables/family_summary.csv\n")
-
