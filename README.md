@@ -26,7 +26,7 @@ The study area spans an elevation gradient of **2,105-2,571 meters** in the Hind
 ##  Repository Structure
 
 ```
-booni-butterfly-diversity/
+booni_butterfly_diversity/
 ├── data/
 │   ├── raw/                    # Original observation data
 │   └── cleaned/                # Processed dataset
@@ -110,14 +110,14 @@ booni-butterfly-diversity/
 
 ### Clone Repository
 ```bash
-git clone https://github.com/Syedinzimam/booni-butterfly-diversity.git
-cd booni-butterfly-diversity
+git clone https://github.com/Syedinzimam/booni_butterfly_diversity.git
+cd booni_butterfly_diversity
 ```
 
 ### Run Analysis
 ```r
 # Set working directory
-setwd("path/to/booni-butterfly-diversity")
+setwd("path/to/booni_butterfly_diversity")
 
 # Run scripts in order
 source("scripts/01_data_exploration.R")
@@ -140,7 +140,7 @@ This baseline dataset provides critical information for:
 
 ##  Related Projects
 
-- [Pakistan Biodiversity Hotspot Analysis](https://github.com/Syedinzimam/pakistan-biodiversity-analysis)
+- [Pakistan Biodiversity Hotspot Analysis](https://github.com/Syedinzimam/pakistan_biodiversity_analysis)
 - [Species Distribution Modeling: Himalayan Ibex](https://github.com/Syedinzimam/SDM_Himalayan_Ibex)
 
 ##  Citation
@@ -150,7 +150,7 @@ If you use this data or methodology in your work, please cite:
 ```
 Shah, S.I.A. (2025). Butterfly Diversity of Booni, Upper Chitral: A Photographic 
 Documentation and Baseline Survey. GitHub repository. 
-https://github.com/Syedinzimam/booni-butterfly-diversity
+https://github.com/Syedinzimam/booni_butterfly_diversity
 ```
 
 ##  Contributing
